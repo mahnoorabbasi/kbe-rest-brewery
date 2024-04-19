@@ -101,7 +101,7 @@
                     <verbose>true</verbose>
                     <images>
                         <image>
-                            <name>xavor/${project.artifactId}</name>
+                            <name>mahnoorabbasi/${project.artifactId}</name>
 <!--                            <name>ke-rest</name>-->
                             <build>
                                 <assembly>
